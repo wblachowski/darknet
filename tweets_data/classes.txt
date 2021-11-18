@@ -1,0 +1,5 @@
+Profile info
+Text content
+Whole tweet
+Date
+Like/comments/retweets counts
